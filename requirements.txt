@@ -1,0 +1,7 @@
+terrascript
+python_terraform
+setuptools
+wheel
+tqdm
+twine
+pep8
